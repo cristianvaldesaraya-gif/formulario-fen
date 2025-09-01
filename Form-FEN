@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Formulario FEN"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/formulario-fen.git
+git push -u origin main
